@@ -1,10 +1,10 @@
-# 🧠 Real-Time Credit Risk API
+#  Real-Time Credit Risk API
 
 A FastAPI-based backend service for predicting credit default risk using XGBoost. This system also provides SHAP-based feature attributions to explain model decisions.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Predicts credit default risk score from applicant data
 * Classifies risk as "High Risk" or "Low Risk"
